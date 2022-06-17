@@ -18,7 +18,7 @@
 - [03-Linux-Core-Concepts](docs/03-Linux-Core-Concepts)
 
   - [02-The-Linux-Kernel](docs/03-Linux-Core-Concepts/02-The-Linux-Kernel.md)
-  - [03-Working-With-Hardware](docs/03-Linux-Core-Concepts/03-Working-with-hardware.md)
+  - [03-Working-With-Hardware](docs/03-Linux-Core-Concepts/03-Working-With-hardware.md)
   - [04-Lab-Linux-Kernel](docs/03-Linux-Core-Concepts/04-Lab-Linux-Kernel.md)
   - [05-Linux-Boot-Sequence](docs/03-Linux-Core-Concepts/05-Linux-Boot-Sequence.md)
   - [06-Run-Levels](docs/03-Linux-Core-Concepts/06-Run-Levels.md)
